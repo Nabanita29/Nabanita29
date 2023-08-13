@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Nabanita
 #### Nice to meet you 😄
-I am a Machine learning beginner, currently working as a data science intern at Borde, an AI-based startup. I am a hackathon enthusiast with three-time Hackathon wins under my belt, currently working on making more open - source contributions.
+I am a Machine learning beginner, currently working as a data science intern a Borde, an AI-based startup. I am a hackathon enthusiast and a  three-time Hackathon winner, currently working on making more open source contributions.
 
 Skills: Python / Scikit-Learn / Java 
 
@@ -10,7 +10,7 @@ Skills: Python / Scikit-Learn / Java
 - 🤔 I’m looking for help with DSA 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nabanita29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nabanita-chatterjee-9b31a8228//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Nabanita291002)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nabanita29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nabanita-chatterjee-9b31a8228//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Nabanita291002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/nabanitachatterjee291002/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nabanita29)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -20,4 +20,4 @@ Skills: Python / Scikit-Learn / Java
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nabanita29)  
 
-
+![Profile views](https://gpvc.arturio.dev/Nabanita29)  
