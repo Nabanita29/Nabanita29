@@ -22,4 +22,4 @@ Skills: Python / Scikit-Learn / Java
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nabanita29)  
 
-![Profile views](https://gpvc.arturio.dev/Nabanita29)  
+
