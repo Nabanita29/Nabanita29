@@ -18,8 +18,6 @@ Skills: Python / Scikit-Learn / Java
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabanita29&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nabanita29)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nabanita29)  
 
 
