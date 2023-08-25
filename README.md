@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Nabanita
 #### Nice to meet you 😄
-I am a Machine learning beginner, currently working as a data science intern a Borde, an AI-based startup. I am a hackathon enthusiast and a  three-time Hackathon winner, currently working on making more open source contributions.
+I am a Machine learning beginner, currently working as a researcher at The Northcap University. I am a hackathon enthusiast and a  three-time Hackathon winner, currently working on making more open source contributions.
 
 Skills: Python / Scikit-Learn / Java 
 
