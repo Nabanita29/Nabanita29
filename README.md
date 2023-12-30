@@ -1,5 +1,10 @@
 ### Hey there! 👋 I'm Nabanita, a third year undergraduate. Currently diving into Open Source contributions and exploring the world of Software Development.
 
+- 🔭 I’m currently working on Open Source Contriibutions 
+- 🌱 I’m currently learning Softwaree Development 
+- 👯 I’m looking to collaborate on Hackathons  
+- 🤔 I’m looking for help with DSA **
+
 🛠️ **Intern at DesiQnA:**
    - Crafted a responsive webpage with top-notch user experiences.
    - Enhanced security through Recaptcha integration.
@@ -14,10 +19,7 @@
    - 2nd Prize - Geeks for Geeks Ecotech Hackathon.
    - Top 20 Worldwide - Polyhack 2023 (1000 hkd funding).
    - Best Accessibility Hack - All in x MLH hacks.
-- 🔭 I’m currently working on Open Source Contriibutions 
-- 🌱 I’m currently learning Deep Learning 
-- 👯 I’m looking to collaborate on Hackathons  
-- 🤔 I’m looking for help with DSA **
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nabanita29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabanita-chatterjee-9b31a8228//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Nabanita291002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/nabanitachatterjee291002/)  
