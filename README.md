@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Open Source Contriibutions 
 - 🌱 I’m currently learning Software Development 
 - 👯 I’m looking to collaborate on Hackathons  
-- 🤔 I’m looking for help with DSA **
+- 🤔 I’m looking for help with DSA 
 
 🛠️ **Intern at DesiQnA:**
    - Significantly increased user engagement by 20% through responsive webpage design. I led the development of User Verification/Authentication solutions, successfully eliminating 45% of fake bots and posts, and enhanced website security by 15% through Recaptcha integration. 
