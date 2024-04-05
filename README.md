@@ -1,7 +1,3 @@
-Absolutely, here's a revised version of your profile with a bit more flair and detail:
-
----
-
 ### Hello World! 👋 I'm Nabanita Chatterjee, a passionate third-year undergraduate delving deep into the realm of Software Development and Open Source Contributions.
 
 - 🔭 Currently, I'm channeling my energy into Open Source Contributions, enriching my skills and giving back to the community.
@@ -23,6 +19,11 @@ Absolutely, here's a revised version of your profile with a bit more flair and d
 🧠 **Research Contributions:**
   - Pioneered the application of Machine Learning and Deep Learning techniques for Android malware detection, contributing to the advancement of cybersecurity.
   - Actively involved in the development of innovative Speech Recognition models, pushing the boundaries of AI technology.
+
+🏅 **Certifications:**
+
+  - AWS Certified Cloud Practitioner
+  - Azure AI-900
 
 🏆 **Noteworthy Achievements:**
   - Recognized as an AWS AI ML Scholar in 2023, securing a prestigious $4000 scholarship to pursue advanced studies in artificial intelligence and machine learning.
