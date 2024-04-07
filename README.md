@@ -8,13 +8,13 @@
 🛠️ **Internship Experience:**
 
 **1 Percent Verse (Current):**
-  - Spearheading the development of a cutting-edge recommendation system with a remarkable accuracy rate of 78%, revolutionizing how users discover relevant courses.
-  - Harnessing the power of AWS cloud services and machine learning to optimize system performance and ensure seamless deployment.
-  - Directing a talented team of 4 interns, orchestrating collaborative efforts towards building a robust solution using Python and cloud technologies.
+- Pioneering a cutting-edge recommendation system with 78% accuracy, transforming how users discover courses.
+- Leveraging AWS and ML for optimized performance and seamless deployment.
+- Leading a team of 4 interns to build a robust solution in Python and cloud tech.
 
 **DesiQnA (Former):**
-  - Engineered responsive webpage designs that resulted in a remarkable 20% increase in user engagement, elevating the platform's user experience.
-  - Led the implementation of robust User Verification/Authentication solutions, effectively eliminating 45% of fraudulent bots and posts, and bolstering website security by 15% through Recaptcha integration.
+- Engineered responsive designs, boosting user engagement by 20%.
+- Implemented strong User Verification/Authentication, reducing fraud by 45% and enhancing security by 15% with Recaptcha.
 
 🧠 **Research Contributions:**
   - Pioneered the application of Machine Learning and Deep Learning techniques for Android malware detection, contributing to the advancement of cybersecurity.
