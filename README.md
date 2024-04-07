@@ -1,8 +1,8 @@
 ### Hello World! 👋 I'm Nabanita Chatterjee, a passionate third-year undergraduate delving deep into the realm of Software Development and Open Source Contributions.
 
-- 🔭 Currently, I'm channeling my energy into Open Source Contributions, enriching my skills and giving back to the community.
-- 🌱 I'm on an exciting journey of continuous learning in Software Development, exploring new technologies and methodologies to craft innovative solutions.
-- 👯 I'm eagerly seeking opportunities to collaborate on Hackathons, where I can leverage my skills and creativity to tackle real-world challenges alongside like-minded individuals.
+- 🔭 Currently, I'm channeling my energy into Open Source Contributions.
+- 🌱 I'm on an exciting journey of continuous learning in Software Development.
+- 👯 I'm eagerly seeking opportunities to collaborate on Hackathons.
 - 🤔 I'm actively seeking guidance and mentorship in Data Structures and Algorithms to sharpen my problem-solving skills.
 
 🛠️ **Internship Experience:**
