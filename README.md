@@ -35,7 +35,7 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Nabanita29) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nabanita-chatterjee-9b31a8228/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Nabanita291002) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/nabanita29/) [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&logoColor=white)](https://medium.com/@nabanita21csu057)
 
-![Nabanita's github activity graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
+![Nabanita's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nabanita29&theme=github)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nabanita29&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
