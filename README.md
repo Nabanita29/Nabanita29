@@ -7,8 +7,13 @@
 
 🛠️ **Internship Experience:**
 
-**1 Percent Verse (Current):**
-- Pioneering a cutting-edge recommendation system with 78% accuracy, transforming how users discover courses.
+**Current**
+- Working as a Intern @GeeksForGeeks
+- Project builder @TechCadets
+- Summer School Mentee at CodePath 
+
+**1 Percent Verse:**
+- Pioneering a cutting-edge recommendation system with 88% accuracy, transforming how users discover courses.
 - Leveraging AWS and ML for optimized performance and seamless deployment.
 - Leading a team of 4 interns to build a robust solution in Python and cloud tech.
 
@@ -18,7 +23,7 @@
 
 🧠 **Research Contributions:**
   - Pioneered the application of Machine Learning and Deep Learning techniques for Android malware detection, contributing to the advancement of cybersecurity.
-  - Actively involved in the development of innovative Speech Recognition models, pushing the boundaries of AI technology.
+  - Actively involved in the development of innovative Machine Learning approaches for Intrusion Detecion syste,.
 
 🏅 **Certifications:**
 
