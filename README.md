@@ -8,7 +8,6 @@
 🛠️ **Internship Experience:**
 
 **Current**
-- Working as a Intern @GeeksForGeeks
 - Project builder @TechCadets
 - Summer School Mentee at CodePath 
 
