@@ -7,9 +7,8 @@
 
 🛠️ **Internship Experience:**
 
-**Current**
-- Project builder @TechCadets
-- Summer School Mentee at CodePath 
+**TakeUForward**
+- Part of the technology team working towards the launch of TuF+ the premium version of takeUforward, a platform that helps students prepare for coding interviews effortlessly. 
 
 **1 Percent Verse:**
 - Pioneering a cutting-edge recommendation system with 88% accuracy, transforming how users discover courses.
